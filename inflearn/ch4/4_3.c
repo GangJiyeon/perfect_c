@@ -23,5 +23,13 @@ int main()
     printf("%s\n", str2);
 
     printf("%hhi %hhi %hhi %hhi \n", str2[0], str2[1], str2[2], str2[3], str2[4]);  //각각 출력하면 0이 출력된다
+   
+    char str3[20] = "hello, \0world";
+
+    printf("%s\n", str3);   //hello,
+    printf("%c\n", str3[10]); //r
+    printf("%c\n", str3[11]);   //l
+
+    //=> 저장은 되어 있는데, \0을 만나 출력이 안됨 
     return 0;
 }
