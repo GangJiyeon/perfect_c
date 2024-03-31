@@ -4,6 +4,7 @@ int main(){
     int input = 0;
     printf("Please type in something:");
     scanf("%d", &input);    
+    printf("%d", input);
     //&변수: 
     //&: ampersand
     /*
