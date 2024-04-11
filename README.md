@@ -1,7 +1,5 @@
-# perfect_c
-study_pecfect_c
+# study c
+### study with references
+- pecfect_c
+- inflearn 홍정모의 따라하며 배우는 C언어
 
-
-[ study log ]       
-Study period: 2024.01.09 ~    
-Reference book: perfect C
