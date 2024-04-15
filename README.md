@@ -5,10 +5,10 @@
 
 
 ### structure
--.vscode
-    ㄴ~~~.json
--inflearn
--perfect_c
--mini_project
--.gitignore
--README.md
+-.vscode     
+    ㄴ~~~.json     
+-inflearn     
+-perfect_c     
+-mini_project     
+-.gitignore     
+-README.md     
