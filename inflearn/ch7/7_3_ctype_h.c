@@ -5,7 +5,7 @@ reference link
 https://www.tutorialspoint.com/c_standard_library/ctype_h.htm
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <ctype.h>
 

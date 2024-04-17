@@ -2,7 +2,7 @@
 6.7. 관계연산자의 우선순위
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

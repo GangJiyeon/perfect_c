@@ -2,7 +2,7 @@
 6.12. 제논의 역설 시뮬레이션 예제
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

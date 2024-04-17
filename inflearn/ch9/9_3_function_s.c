@@ -2,7 +2,7 @@
 9.3. 함수의 자료형과 반환값
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 //반환자료형 => 함수의 자료형처럼 생각할 수 있다

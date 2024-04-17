@@ -2,7 +2,7 @@
 7.13. goto를 피하는 방법
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

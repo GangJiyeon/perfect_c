@@ -2,7 +2,7 @@
 6.4. 관계 연산자(relational operators)
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>   //fabs()
 

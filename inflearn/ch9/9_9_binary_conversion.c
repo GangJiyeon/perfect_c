@@ -2,7 +2,7 @@
 9.9. 이진수 변환 예제
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 /*

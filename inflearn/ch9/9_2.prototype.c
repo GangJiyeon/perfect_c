@@ -2,7 +2,7 @@
 9.2. 함수의 프로토타입
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h> //strlen()
 

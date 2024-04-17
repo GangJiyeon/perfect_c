@@ -2,7 +2,7 @@
 6.3. 진입조건 루프 while (Entry-Condition Loop)
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

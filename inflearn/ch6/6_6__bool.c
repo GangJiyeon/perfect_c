@@ -2,7 +2,7 @@
 _Boll 자료형
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

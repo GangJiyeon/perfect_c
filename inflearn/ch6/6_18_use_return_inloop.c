@@ -2,7 +2,7 @@
 6.18. 루프 안에서 함수의 반환값 사용하기
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int base = 0;

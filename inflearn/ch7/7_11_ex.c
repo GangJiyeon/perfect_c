@@ -2,7 +2,7 @@
 7.11. 최대, 최소, 평균 구하기 예제
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <float.h>
 

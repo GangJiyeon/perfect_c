@@ -1,7 +1,7 @@
 /*
 7.6. 소수판단예제
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
 

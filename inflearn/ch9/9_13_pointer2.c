@@ -2,7 +2,7 @@
 9.13. 포인터의 기본적인 사용방법
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

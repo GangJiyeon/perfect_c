@@ -1,7 +1,7 @@
 /*
 8.9. 텍스트 파일 읽기
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h> //exit()
 

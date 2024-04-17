@@ -2,7 +2,7 @@
 7.2. 표준 입출력 함수들 => getchar(), putchar()
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

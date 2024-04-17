@@ -4,7 +4,7 @@
 if(expression) => false(=0)이 아니라면
     statement
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

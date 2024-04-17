@@ -2,7 +2,7 @@
 8.7. 입력 스트림과 숫자
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

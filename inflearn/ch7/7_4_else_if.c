@@ -2,7 +2,7 @@
 7.4. 다중선택 else if
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 //assessment standard tax base

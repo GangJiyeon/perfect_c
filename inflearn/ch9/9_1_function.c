@@ -2,7 +2,7 @@
 9.1. 함수가 필요할 때
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h> //strlen()
 

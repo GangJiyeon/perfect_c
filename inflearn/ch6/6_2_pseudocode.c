@@ -5,7 +5,7 @@
 
     문법생각 X, 논리 자체에 집중, 보통 영어로 적는다
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 /*

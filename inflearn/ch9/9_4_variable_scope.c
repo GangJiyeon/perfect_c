@@ -2,7 +2,7 @@
 9.4. 변수의 영역과 지역변수
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int int_max(int i, int j);

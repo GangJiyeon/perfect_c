@@ -1,7 +1,7 @@
 /*
 8.6. 입력 확인하기
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 long get_long(void);

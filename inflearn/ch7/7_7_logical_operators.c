@@ -2,7 +2,7 @@
 7.7 ?ÖºÎ¶? ?ó∞?Ç∞?ûê logical operators
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <ctype.h>
 #include <stdbool.h>

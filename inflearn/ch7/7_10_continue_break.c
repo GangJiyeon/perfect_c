@@ -1,7 +1,7 @@
 /*
 7.10. 루프도우미 contine와 break
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

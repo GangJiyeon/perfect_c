@@ -3,7 +3,7 @@
 무한루프에서 사용하면 안 됨
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 void my_func(int);

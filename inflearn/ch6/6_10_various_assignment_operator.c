@@ -2,7 +2,7 @@
 다양한 대입 연산자들, 어셈블리 코드 확인법
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()

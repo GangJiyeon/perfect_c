@@ -1,7 +1,7 @@
 /*
 8.5. 숫자와 문자를 섞어서 입력받기
 */
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 void display(char cr, int lines, int width);

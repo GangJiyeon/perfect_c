@@ -2,7 +2,7 @@
 9. 10. 피보나치 예제와 재귀 호출의 장단점
 */
 
-#define _CRT_SECURE_NO_WARNING
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 /*
