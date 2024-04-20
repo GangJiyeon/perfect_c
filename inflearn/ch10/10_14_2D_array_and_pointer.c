@@ -1,5 +1,5 @@
 /*
-10.14. 2Â÷¿ø ¹è¿­°ú Æ÷ÀÎÅÍ
+10.14. 2ï¿½ï¿½ï¿½ï¿½ ï¿½è¿­ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 */
 
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main()
     printf("%u\n", (unsigned)arr2d[0]);
     printf("\n");
 
-    //arr2d points to arr2d[0](ÁÖ¼Ò), not arr2d[0][0](°ª) 
+    //arr2d points to arr2d[0](ï¿½Ö¼ï¿½), not arr2d[0][0](ï¿½ï¿½) 
     printf("%u\n", (unsigned) *arr2d);
     printf("%u\n", (unsigned) &arr2d[0]);
     printf("%u\n", (unsigned) &arr2d[0][0]);
@@ -42,7 +42,25 @@ int main()
         }
     }
 
-    float (*pa)[4]; //a single pointer to an array of 4
 
+    /*pointers to multidimensional arrays*/
+    /*
+    float arr2d[2][4] = {
+                            {1.0f, 2.0f, 3.0f, 4.0f},
+                            {5.0f, 6.0f, 7.0f, 8.0f}
+                        };
+    */
+
+    float (*pa)[4]; //a single pointer to an array of 4 float
+    float *ap[2];   //an array of two pointers-to-float
+
+    printf("%zu\n", sizeof(pa));    //4
+    printf("%zu\n", sizeof(ap));    //8 
+     
+    pa = arr2d;
+    //error - pa[0] = arr2d[0];
+
+    //error - ap = arr2d;
+    
     return 0;
 }
